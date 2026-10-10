@@ -2,7 +2,7 @@
 
 🎓 **B.Tech Information Technology student** at Sri Sairam Engineering College (Class of 2028)  
 💻 Interested in **software development, full-stack engineering, and AI/ML**  
-🌱 Learning by building practical projects and improving my problem-solving skills  
+🌱 I learn by building practical projects and improving them step by step  
 🎯 Open to **software development and AI/ML internship opportunities**
 
 ## 🛠️ Technologies I'm working with
@@ -13,13 +13,11 @@
 - **Databases:** PostgreSQL, SQL
 - **Tools & environment:** Git, GitHub, Linux
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- **[Credit Card Fraud Detection](https://github.com/Haritharan-S/Credit_Card_Fraud_Detection)** — Machine-learning project focused on credit-card fraud detection.
-- **[Workflow Manager](https://github.com/Haritharan-S/Workflow-Manager)** — Flutter application project.
-- **[My Portfolio](https://github.com/Haritharan-S/MyPorfolio)** — Personal portfolio website.
-
-I'm continuing to improve these projects with clearer documentation, better structure, and practical features.
+- **LifeOps AI** — An AI-assisted productivity app designed to turn everyday text into actionable items such as tasks, payments, events, and reminders.
+- **RenderVerse** *(in development)* — A rendering workflow project focused on coordinating rendering jobs and workers.
+- **College-level hackathon participation** — Collaborated on a team-based solution to a practical problem.
 
 ## 🤝 Connect with me
 
