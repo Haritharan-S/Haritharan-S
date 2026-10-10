@@ -17,7 +17,6 @@
 
 - **LifeOps AI** — An AI-assisted productivity app designed to turn everyday text into actionable items such as tasks, payments, events, and reminders.
 - **RenderVerse** *(in development)* — A rendering workflow project focused on coordinating rendering jobs and workers.
-- **College-level hackathon participation** — Collaborated on a team-based solution to a practical problem.
 
 ## 🤝 Connect with me
 
